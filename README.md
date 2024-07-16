@@ -2,4 +2,4 @@
 
 - Estado Del Poryecto: En Construccción.
 
-**Nota: Ejemplo de Como Empezar A usar Git y GitHub**
+**Nota: usar Git y GitHub**
